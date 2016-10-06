@@ -1,0 +1,2 @@
+Install-Package Microsoft.WindowsAzure.ConfigurationManager
+Install-Package WindowsAzure.Storage

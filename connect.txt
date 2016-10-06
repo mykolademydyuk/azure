@@ -1,0 +1,3 @@
+<appSettings>
+	<add key="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ndh;AccountKey=n435wN/uoCv++zVz+hU6FYnGuK7uKpVfcoPYlU7OKMcmkgBcq6atppiidBJdNQpxM49wX2FWlydsUz2EaYhXBg==" />
+</appSettings>
